@@ -12,4 +12,4 @@
 - **[task-manager-react-flask](https://github.com/AliFarooq77/task-manager-react-flask)**: Full-stack task manager with a Flask REST API and a React frontend.
 - **[aqi-model](https://huggingface.co/alifarooq77/aqi-model)**: Gemma-2B fine-tuned with LoRA for air-quality-focused chat.
 
-More projects and write-ups at [cronsinc.com](https://www.cronsinc.com).
+More projects and write-ups at [cronsinc.com](https://www.cronsinc.com). Also on [LinkedIn](https://www.linkedin.com/in/muhammadalifarooq77).
